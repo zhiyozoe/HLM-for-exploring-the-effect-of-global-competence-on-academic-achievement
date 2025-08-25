@@ -1,5 +1,5 @@
 # HLM-for-exploring-the-effect-of-global-competence-on-academic-achievement
-A data-manipulation process that explores the effect of physical activity on academic achievement in adolescents
+A data-manipulation process that explores the effect of global competence on academic achievement in adolescents
 Objectives and methods
 ## Research questions
 - Question 1: How do global competence indicators affect students’ academic achievement?
